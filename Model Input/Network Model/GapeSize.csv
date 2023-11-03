@@ -1,0 +1,242 @@
+Species;GapeSize;Gape_Sivault;Gape_AvianFrug;Gape_Bovo;Gape_ATLANTIC;Gape_Pigot;Gape_MammalModel;Reference
+Amazona.aestiva;19.2;NA;19.2;NA;NA;NA;NA;McFadden et al., 2022
+Amazona.amazonica;20;NA;20;NA;NA;NA;NA;McFadden et al., 2022
+Amazona.farinosa;23.8;NA;23.8;NA;NA;NA;NA;McFadden et al., 2022
+Amazona.rhodocorytha;22;NA;22;NA;NA;NA;NA;McFadden et al., 2022
+Antilophia.galeata;10.8;NA;10.8;10.83;9.54;NA;NA;McFadden et al., 2022
+Aramides.cajanea;13.637;NA;NA;NA;13.637;NA;NA;Bello et al., 2017
+Aramides.saracura;13.637;NA;NA;NA;NA;NA;NA;Genus average
+Aratinga.aurea;14.475;NA;NA;NA;NA;NA;NA;Genus average
+Aratinga.leucophthalma;14.475;NA;NA;NA;NA;NA;NA;Genus average
+Aratinga.solstitialis;15.1;NA;15.1;NA;NA;NA;NA;McFadden et al., 2022
+Arremon.flavirostris;8.9;NA;NA;8.9;6.1;NA;NA;Bovo et al., 2018
+Attila.phoenicurus;12.41;NA;NA;12.41;11.77;NA;NA;Bovo et al., 2018
+Attila.rufus;14.55;NA;NA;14.55;12.06;NA;NA;Bovo et al., 2018
+Baryphthengus.ruficapillus;22.5;NA;NA;22.5;17.2;NA;NA;Bovo et al., 2018
+Basileuterus.culicivorus;6.48;NA;NA;6.48;6.299;NA;NA;Bovo et al., 2018
+Brotogeris.chiriri;10.2;NA;10.2;NA;NA;NA;NA;McFadden et al., 2022
+Brotogeris.tirica;9.72;NA;NA;NA;NA;NA;NA;Genus average
+Cacicus.chrysopterus;7.9;NA;7.9;7.9;7.7;NA;NA;McFadden et al., 2022
+Cacicus.haemorrhous;11.66;NA;NA;11.66;12.43866667;NA;NA;Bovo et al., 2018
+Campephilus.melanoleucos;17.82;NA;NA;17.82;NA;NA;NA;Bovo et al., 2018
+Camptostoma.obsoletum;5.022222222;NA;NA;NA;5.022222222;NA;NA;Bello et al., 2017
+Campylorhynchus.turdinus;10.8;NA;NA;NA;NA;NA;NA;Rodrigues et al., 2019 (beak width)
+Capsiempis.flaveola;6.91;NA;NA;6.91;NA;NA;NA;Bovo et al., 2018
+Cariama.cristata;32.3;NA;NA;NA;NA;NA;NA;Rodrigues et al., 2019 (beak depth)
+Carpornis.cucullata;12.8;NA;12.8;12.75;14.98;NA;NA;McFadden et al., 2022
+Carpornis.melanocephala;14.5;NA;14.5;14.53;16.9;NA;NA;McFadden et al., 2022
+Caryothraustes.canadensis;12.1;NA;12.1;NA;NA;NA;NA;McFadden et al., 2022
+Celeus.flavescens;14.3;NA;NA;14.3;13.17142857;NA;NA;Bovo et al., 2018
+Chamaeza.campanisona;12.37;NA;NA;12.37;NA;NA;NA;Bovo et al., 2018
+Chiroxiphia.caudata;9.8;NA;9.8;9.3;9.496153846;9.3;NA;McFadden et al., 2022
+Chlorophonia.cyanea;6.4;NA;6.4;6.65;NA;6.65;NA;McFadden et al., 2022
+Cichlopsis.leucogenys;11.423;NA;NA;NA;NA;NA;NA;Family average (Turdidae) McFadden et al., 2022
+Cissopis.leverianus;12.6;NA;12.6;12.55;7.995333333;NA;NA;McFadden et al., 2022
+Claravis.godefrida;7.1;NA;NA;NA;NA;NA;NA;Genus average
+Colaptes.melanochloros;12.92;NA;NA;12.92;13.3;NA;NA;Bovo et al., 2018
+Conirostrum.speciosum;6;NA;NA;6;2.8;6;NA;Bovo et al., 2018
+Crax.fasciolata;23.3;NA;23.3;23.3;NA;NA;NA;McFadden et al., 2022
+Crotophaga.ani;19.6;NA;NA;NA;NA;NA;NA;Genus average
+Crypturellus.undulatus;15.8;NA;15.8;NA;NA;NA;NA;McFadden et al., 2022
+Cyanerpes.cyaneus;7.35;NA;NA;7.35;7.45;NA;NA;Bovo et al., 2018
+Cyanocorax.chrysops;17.21;NA;NA;17.21;17.49105263;NA;NA;Bovo et al., 2018
+Cyanocorax.cristatellus;17.77272727;NA;NA;NA;17.77272727;20.875;NA;Bello et al., 2017
+Dacnis.cayana;7.92;NA;NA;7.92;5.252413793;7.9175;NA;Bovo et al., 2018
+Dryocopus.lineatus;16.49;NA;NA;16.49;NA;NA;NA;Bovo et al., 2018
+Dysithamnus.mentalis;7.71;NA;NA;7.71;NA;NA;NA;Bovo et al., 2018
+Elaenia.albiceps;6.6;NA;6.6;NA;8.31;NA;NA;McFadden et al., 2022
+Elaenia.cristata;10.3;NA;10.3;NA;10.7;NA;NA;McFadden et al., 2022
+Elaenia.flavogaster;10.3;NA;10.3;NA;8.35;9.475;NA;McFadden et al., 2022
+Elaenia.mesoleuca;8.7;NA;8.7;8.85;7.2;NA;NA;McFadden et al., 2022
+Elaenia.obscura;7.4;NA;7.4;NA;10.57777778;9.225;NA;McFadden et al., 2022
+Elaenia.parvirostris;8.66;NA;NA;8.66;6.675;NA;NA;Bovo et al., 2018
+Emberizoides.herbicola;6.924;NA;NA;NA;NA;NA;NA;Genus average (Sylvia)
+Empidonomus.varius;10.01;NA;NA;10.01;9.911111111;11.9;NA;Bovo et al., 2018
+Euphonia.chlorotica;6.3;NA;6.3;6;6.146666667;NA;NA;McFadden et al., 2022
+Euphonia.pectoralis;7.4;NA;7.4;7.08;7.69;NA;NA;McFadden et al., 2022
+Euphonia.violacea;7.6;NA;7.6;8.26;6.923571429;NA;NA;McFadden et al., 2022
+Forpus.xanthopterygius;8.8;NA;8.8;NA;NA;NA;NA;McFadden et al., 2022
+Geotrygon.montana;9.34;NA;NA;9.34;NA;NA;NA;Bovo et al., 2018
+Geotrygon.violacea;7.47;NA;NA;7.47;NA;NA;NA;Bovo et al., 2018
+Gnorimopsar.chopi;16.438;NA;NA;NA;NA;NA;NA;Family average (Icteridae) McFadden et al., 2022
+Habia.rubica;11.49;NA;NA;11.49;10.0125;12.1;NA;Bovo et al., 2018
+Hemithraupis.flavicollis;7.02;NA;NA;7.02;7.8;NA;NA;Bovo et al., 2018
+Hemithraupis.guira;7.21;NA;NA;7.21;5.847058824;NA;NA;Bovo et al., 2018
+Hemithraupis.ruficapilla;6.1;NA;NA;6.1;4.000869565;NA;NA;Bovo et al., 2018
+Herpsilochmus.rufimarginatus;7.8;NA;NA;7.8;NA;NA;NA;Bovo et al., 2018
+Hylophilus.amaurocephalus;3.06;NA;NA;NA;3.06;NA;NA;Bello et al., 2017
+Hylophilus.poicilotis;6.23;NA;NA;6.23;NA;NA;NA;Bovo et al., 2018
+Ilicura.militaris;7.7;NA;7.7;7.73;8.93;NA;NA;McFadden et al., 2022
+Knipolegus.lophotes;4.617;NA;NA;NA;NA;NA;NA;Genus average
+Legatus.leucophaius;9.5;NA;9.5;9.4;10.42;NA;NA;McFadden et al., 2022
+Leptopogon.amaurocephalus;8.41;NA;NA;8.41;8.825;NA;NA;Bovo et al., 2018
+Leptotila.rufaxilla;8.7;NA;NA;8.7;8.053333333;NA;NA;Bovo et al., 2018
+Leptotila.verreauxi;8.48;NA;NA;8.48;8.757058824;NA;NA;Bovo et al., 2018
+Lipaugus.lanioides;17.1;NA;17.1;17.1;18.652;NA;NA;McFadden et al., 2022
+Lipaugus.vociferans;18.2;NA;18.2;NA;17.686;NA;NA;McFadden et al., 2022
+Manacus.manacus;9.9;NA;9.9;10.25;8.188461538;10.245;NA;McFadden et al., 2022
+Megarynchus.pitangua;17.34;NA;NA;17.34;17.81;NA;NA;Bovo et al., 2018
+Melanerpes.candidus;13.8;NA;13.8;NA;NA;NA;NA;McFadden et al., 2022
+Melanerpes.flavifrons;9.23;NA;NA;9.23;10.664;NA;NA;Bovo et al., 2018
+Milvago.chimachima;12.2;NA;NA;NA;NA;NA;NA;Velasquez-Trujillo et al., 2021 (bill width)
+Mionectes.rufiventris;6.8;NA;6.8;6.9;7.923809524;NA;NA;McFadden et al., 2022
+Molothrus.oryzivorus;10.275;NA;NA;NA;NA;NA;NA;Genus average
+Myiarchus.ferox;10.3;NA;10.3;11.02;10.435;11.7;NA;McFadden et al., 2022
+Myiarchus.swainsoni;12.45;NA;NA;12.45;8.77;NA;NA;Bovo et al., 2018
+Myiarchus.tyrannulus;8.142857143;NA;NA;NA;8.142857143;NA;NA;Bello et al., 2017
+Myiodynastes.maculatus;15.9;NA;NA;15.9;14.61483871;15.775;NA;Bovo et al., 2018
+Myiopagis.caniceps;6.71;NA;NA;6.71;9.5;NA;NA;Bovo et al., 2018
+Myiopagis.viridicata;7.21;NA;NA;7.21;NA;NA;NA;Bovo et al., 2018
+Myiophobus.fasciatus;7;NA;NA;NA;7;8.2;NA;Bello et al., 2017
+Myiozetetes.similis;11;NA;NA;11;9.517241379;NA;NA;Bovo et al., 2018
+Odontophorus.capueira;12.25;NA;NA;12.25;NA;NA;NA;Bovo et al., 2018
+Orthogonys.chloricterus;11.13;NA;NA;11.13;6.822;NA;NA;Bovo et al., 2018
+Oxyruncus.cristatus;10.3;NA;10.3;11.78;10.17;NA;NA;McFadden et al., 2022
+Pachyramphus.castaneus;9.65;NA;NA;9.65;NA;NA;NA;Bovo et al., 2018
+Pachyramphus.marginatus;11;NA;11;11.48;NA;NA;NA;McFadden et al., 2022
+Pachyramphus.polychopterus;10.9;NA;10.9;10.69;11.2;NA;NA;McFadden et al., 2022
+Parula.pitiayumi;5.14;NA;NA;NA;NA;5.14;NA;Pigot et al., 2016
+Patagioenas.cayennensis;9.5;NA;9.5;8.93;NA;NA;NA;McFadden et al., 2022
+Patagioenas.maculosa;9.346;NA;NA;NA;NA;NA;NA;Genus average
+Patagioenas.picazuro;11.502;NA;NA;NA;11.502;NA;NA;Bello et al., 2017
+Patagioenas.plumbea;7.1;NA;7.1;6.8;9.3;6.8;NA;McFadden et al., 2022
+Patagioenas.speciosa;8.4;NA;8.4;7.58;NA;NA;NA;McFadden et al., 2022
+Penelope.obscura;20.2;NA;20.2;19.37;22.349;NA;NA;McFadden et al., 2022
+Penelope.superciliaris;20.6;NA;20.6;21.24;19.285;21.24;NA;McFadden et al., 2022
+Phibalura.flavirostris;13.33;NA;NA;13.33;11.81;NA;NA;Bovo et al., 2018
+Phyllomyias.burmeisteri;5.6;NA;5.6;NA;NA;NA;NA;McFadden et al., 2022
+Phyllomyias.fasciatus;6.88;NA;NA;6.88;11.8;NA;NA;Bovo et al., 2018
+Pionopsitta.pileata;14.609;NA;NA;NA;NA;NA;NA;Family average (Psittacidae) McFadden et al., 2022
+Pionus.maximiliani;16.04;NA;NA;NA;NA;NA;NA;Genus average
+Pionus.menstruus;16.04;NA;NA;NA;NA;NA;NA;Genus average
+Pipile.jacutinga;21.08;NA;NA;21.08;NA;NA;NA;Bovo et al., 2018
+Pipra.rubrocapilla;9.2;NA;9.2;NA;9;NA;NA;McFadden et al., 2022
+Pipraeidea.melanonota;7.1;NA;7.1;8.4;6.785714286;8.4;NA;McFadden et al., 2022
+Piprites.chloris;10.89;NA;NA;10.89;NA;NA;NA;Bovo et al., 2018
+Pitangus.sulphuratus;13.892;NA;NA;NA;13.892;15.8;NA;Bello et al., 2017
+Procnias.nudicollis;22.1;NA;22.1;22.15;23.61428571;NA;NA;McFadden et al., 2022
+Psarocolius.decumanus;16.21;NA;NA;16.21;NA;19.4;NA;Bovo et al., 2018
+Pseudoleistes.guirahuro;16.438;NA;NA;NA;NA;NA;NA;Family average (Icteridae) McFadden et al., 2022
+Pteroglossus.aracari;29.9;NA;29.9;29.88;29.64;NA;NA;McFadden et al., 2022
+Pteroglossus.bailloni;23.9;NA;23.9;23.93;NA;NA;NA;McFadden et al., 2022
+Pyroderus.scutatus;25.3;NA;25.3;31.62;27.843;NA;NA;McFadden et al., 2022
+Pyrrhura.cruentata;11.2;NA;11.2;NA;NA;NA;NA;McFadden et al., 2022
+Pyrrhura.frontalis;11.713;NA;NA;NA;NA;NA;NA;Genus average
+Pyrrhura.leucotis;11.713;NA;NA;NA;NA;NA;NA;Genus average
+Ramphastos.dicolorus;31;NA;31;31.03;30.1;NA;NA;McFadden et al., 2022
+Ramphastos.toco;40.3;NA;40.3;NA;36.29;41.325;NA;McFadden et al., 2022
+Ramphastos.vitellinus;31.2;NA;31.2;31.25;30.10727273;NA;NA;McFadden et al., 2022
+Ramphocelus.bresilius;11.8;NA;11.8;11.9;11.23;NA;NA;McFadden et al., 2022
+Ramphocelus.carbo;9.6;NA;9.6;NA;10.16818182;9.66;NA;McFadden et al., 2022
+Rhytipterna.simplex;13.76;NA;NA;13.76;NA;NA;NA;Bovo et al., 2018
+Saltator.fuliginosus;15.38;NA;NA;15.38;12.49375;NA;NA;Bovo et al., 2018
+Saltator.similis;11.7;NA;NA;11.7;11;11.7;NA;Bovo et al., 2018
+Schiffornis.turdina;12.4;NA;12.4;13.85;NA;12.825;NA;McFadden et al., 2022
+Schiffornis.virescens;9.8;NA;9.8;9.83;10.20975;NA;NA;McFadden et al., 2022
+Selenidera.maculirostris;23.3;NA;23.3;23.3;25.039;NA;NA;McFadden et al., 2022
+Sirystes.sibilator;12.9;NA;NA;12.9;NA;12.9;NA;Bovo et al., 2018
+Stephanophorus.diadematus;9.9;NA;9.9;NA;5.995909091;NA;NA;McFadden et al., 2022
+Tachyphonus.coronatus;9.01;NA;NA;9.01;8.417368421;8.775;NA;Bovo et al., 2018
+Tachyphonus.cristatus;8.6;NA;8.6;NA;NA;NA;NA;McFadden et al., 2022
+Tangara.cayana;8.3;NA;8.3;NA;7.41884058;7.475;NA;McFadden et al., 2022
+Tangara.cyanocephala;7.3;NA;7.3;6.68;5.1685;NA;NA;McFadden et al., 2022
+Tangara.cyanoptera;7.4;NA;7.4;10;NA;NA;NA;McFadden et al., 2022
+Tangara.cyanoventris;6.8;NA;6.8;6.85;NA;NA;NA;McFadden et al., 2022
+Tangara.desmaresti;7.3;NA;7.3;7.33;4.591875;NA;NA;McFadden et al., 2022
+Tangara.mexicana;8.1;NA;8.1;NA;8;NA;NA;McFadden et al., 2022
+Tangara.seledon;7;NA;7;7;6.118571429;NA;NA;McFadden et al., 2022
+Tersina.viridis;12.8;NA;12.8;14.33;10.67647059;NA;NA;McFadden et al., 2022
+Thamnophilus.caerulescens;9.91;NA;NA;9.91;10.45;NA;NA;Bovo et al., 2018
+Thlypopsis.sordida;7.25;NA;NA;NA;7.25;6.9;NA;Bello et al., 2017
+Thraupis.bonariensis;10.1;NA;10.1;NA;NA;NA;NA;McFadden et al., 2022
+Thraupis.ornata;9.9;NA;9.9;NA;6.518;NA;NA;McFadden et al., 2022
+Thraupis.palmarum;9.3;NA;9.3;NA;8.283986928;10.41;NA;McFadden et al., 2022
+Thraupis.sayaca;9.3;NA;9.3;NA;8.920555556;10.0375;NA;McFadden et al., 2022
+Tinamus.solitarius;21.8;NA;NA;NA;NA;NA;NA;Genus average
+Tityra.cayana;17.3;NA;17.3;19.36;16.57037037;18.325;NA;McFadden et al., 2022
+Tityra.inquisitor;15.7;NA;15.7;15.75;15.197;NA;NA;McFadden et al., 2022
+Todirostrum.cinereum;6.35;NA;NA;6.35;NA;NA;NA;Bovo et al., 2018
+Tolmomyias.flaviventris;10.04;NA;NA;10.04;8;NA;NA;Bovo et al., 2018
+Tolmomyias.sulphurescens;11.1;NA;NA;11.1;9.9375;NA;NA;Bovo et al., 2018
+Touit.melanonotus;9.9;NA;9.9;NA;NA;NA;NA;McFadden et al., 2022
+Trichothraupis.melanops;8.531153846;NA;NA;NA;8.531153846;9.9;NA;Bello et al., 2017
+Triclaria.malachitacea;14.609;NA;NA;NA;NA;NA;NA;Family average (Psittacidae) McFadden et al., 2022
+Trogon.melanurus;19.9;NA;19.9;NA;NA;NA;NA;McFadden et al., 2022
+Trogon.rufus;18.7;NA;NA;18.7;16.43;18.7;NA;Bovo et al., 2018
+Trogon.surrucura;19.5;NA;NA;19.5;17.52380952;NA;NA;Bovo et al., 2018
+Trogon.viridis;21.6;NA;21.6;21.98;20.489;NA;NA;McFadden et al., 2022
+Turdus.albicollis;12.6;NA;NA;12.6;11.14875;12.325;NA;Bovo et al., 2018
+Turdus.amaurochalinus;10.8;NA;10.8;13.08;12.09548387;13.075;NA;McFadden et al., 2022
+Turdus.flavipes;11.5;NA;11.5;10.48;12.24711539;NA;NA;McFadden et al., 2022
+Turdus.fumigatus;11.7;NA;11.7;NA;12;NA;NA;McFadden et al., 2022
+Turdus.leucomelas;11.78;NA;NA;11.78;12.54757794;12.775;NA;Bovo et al., 2018
+Turdus.leucops;10.3;NA;10.3;NA;NA;NA;NA;McFadden et al., 2022
+Turdus.rufiventris;12;NA;12;12.3;13.25321429;12.3;NA;McFadden et al., 2022
+Turdus.subalaris;10.93;NA;NA;10.93;11.32444444;NA;NA;Bovo et al., 2018
+Tyrannus.savana;11.425;NA;NA;NA;NA;11.425;NA;Pigot et al., 2016
+Veniliornis.spilogaster;11.25;NA;NA;11.25;11.6;NA;NA;Bovo et al., 2018
+Vireo.olivaceus;6.761290323;NA;NA;NA;6.761290323;8.675;NA;Bello et al., 2017
+Volatinia.jacarina;5.08;NA;NA;NA;5.08;NA;NA;Bello et al., 2017
+Xipholena.atropurpurea;13.9;NA;13.9;NA;NA;NA;NA;McFadden et al., 2022
+Anoura.caudifer;16.6;NA;NA;NA;16.6;NA;14.1933513;Bello et al., 2017
+Anoura.geoffroyi;18.11;NA;NA;NA;18.11;NA;15.29566579;Bello et al., 2017
+Artibeus.fimbriatus;20.9;NA;NA;NA;20.9;NA;21.64324756;Bello et al., 2017
+Artibeus.lituratus;23.48500003;23.48500003;NA;NA;21.11;NA;20.0010168;Sivault et al., 2023
+Artibeus.obscurus;19.61000002;19.61000002;NA;NA;19.01;NA;19.95364457;Sivault et al., 2023
+Artibeus.planirostris;19.9;NA;NA;NA;19.9;NA;20.09471913;Bello et al., 2017
+Carollia.perspicillata;14.685;14.685;NA;NA;14.29;NA;15.57922444;Sivault et al., 2023
+Chiroderma.doriae;16.3250356;NA;NA;NA;NA;NA;16.3250356;Model
+Chrotopterus.auritus;23.14823487;NA;NA;NA;NA;NA;23.14823487;Model
+Glossophaga.soricina;13.22999999;13.22999999;NA;NA;13.71;NA;13.90599545;Sivault et al., 2023
+Micronycteris.megalotis;11.3;NA;NA;NA;11.3;NA;12.40954495;Bello et al., 2017
+Phyllostomus.hastatus;26.25000002;26.25000002;NA;NA;26.98;NA;23.02923464;Sivault et al., 2023
+Platyrrhinus.lineatus;16.67999999;16.67999999;NA;NA;17.6;NA;16.72578877;Sivault et al., 2023
+Platyrrhinus.recifinus;16.66;NA;NA;NA;16.66;NA;14.08911679;Bello et al., 2017
+Pygoderma.bilabiatum;12.23;NA;NA;NA;12.23;NA;15.93378729;Bello et al., 2017
+Rhinophylla.pumilio;12.9325;12.9325;NA;NA;NA;NA;13.6667658;Sivault et al., 2023
+Sturnira.lilium;14.76250001;14.76250001;NA;NA;14.79;NA;16.34482907;Sivault et al., 2023
+Sturnira.tildae;16.12750002;16.12750002;NA;NA;NA;NA;16.80695333;Sivault et al., 2023
+Trachops.cirrhosus;18.95317915;NA;NA;NA;NA;NA;18.95317915;Model
+Vampyressa.pusilla;12.61;NA;NA;NA;12.61;NA;13.39707227;Bello et al., 2017
+Alouatta.caraya;63.43717782;NA;NA;NA;NA;NA;63.43717782;Model
+Alouatta.guariba;62.65238934;NA;NA;NA;NA;NA;62.65238934;Model
+Blarinomys.breviceps;18.93950544;NA;NA;NA;NA;NA;18.93950544;Model
+Brachyteles.arachnoides;74.86754499;NA;NA;NA;NA;NA;74.86754499;Model
+Callicebus.nigrifrons;45.57432764;NA;NA;NA;NA;NA;45.57432764;Model
+Callithrix.aurita;30.73779119;NA;NA;NA;NA;NA;30.73779119;Model
+Callithrix.jacchus;30.24875951;NA;NA;NA;NA;NA;30.24875951;Model
+Callithrix.penicillata;31.63071309;NA;NA;NA;NA;NA;31.63071309;Model
+Chrysocyon.brachyurus;89.08196023;NA;NA;NA;NA;NA;89.08196023;Model
+Coendou.spinosus;44.41680254;NA;NA;NA;NA;NA;44.41680254;Model
+Cuniculus.paca;71.57563379;NA;NA;NA;NA;NA;71.57563379;Model
+Dasyprocta.azarae;56.61930087;NA;NA;NA;NA;NA;56.61930087;Model
+Delomys.sublineatus;23.51124503;NA;NA;NA;NA;NA;23.51124503;Model
+Eira.barbara;59.3080313;NA;NA;NA;NA;NA;59.3080313;Model
+Euryoryzomys.russatus;21.35946811;NA;NA;NA;NA;NA;21.35946811;Model
+Gracilinanus.microtarsus;17.1666799;NA;NA;NA;NA;NA;17.1666799;Model
+Herpailurus.yagouaroundi;67.35668926;NA;NA;NA;NA;NA;67.35668926;Model
+Hydrochoerus.hydrochaeris;109.1555207;NA;NA;NA;NA;NA;109.1555207;Model
+Juliomys.pictipes;16.88868985;NA;NA;NA;NA;NA;16.88868985;Model
+Leontopithecus.chrysopygus;37.98269772;NA;NA;NA;NA;NA;37.98269772;Model
+Leopardus.wiedii;57.35451355;NA;NA;NA;NA;NA;57.35451355;Model
+Marmosa.paraguayanus;32.9447816;NA;NA;NA;NA;NA;32.9447816;Model
+Marmosops.incanus;21.30634694;NA;NA;NA;NA;NA;21.30634694;Model
+Marmosops.paulensis;20.33661426;NA;NA;NA;NA;NA;20.33661426;Model
+Mazama.gouazoubira;83.05217619;NA;NA;NA;NA;NA;83.05217619;Model
+Metachirus.nudicaudatus;34.50612876;NA;NA;NA;NA;NA;34.50612876;Model
+Monodelphis.americana;19.08824442;NA;NA;NA;NA;NA;19.08824442;Model
+Monodelphis.iheringi;24.78829036;NA;NA;NA;NA;NA;24.78829036;Model
+Monodelphis.scalops;22.38850542;NA;NA;NA;NA;NA;22.38850542;Model
+Nasua.nasua;68.9433333;68.9433333;NA;NA;NA;NA;58.83408026;Sivault et al., 2023
+Oecomys.catherinae;22.38113811;NA;NA;NA;NA;NA;22.38113811;Model
+Oligoryzomys.flavescens;16.56722979;NA;NA;NA;NA;NA;16.56722979;Model
+Oligoryzomys.nigripes;16.63122314;NA;NA;NA;NA;NA;16.63122314;Model
+Pecari.tajacu;87.33526104;NA;NA;NA;NA;NA;87.33526104;Model
+Philander.frenatus;35.75987038;NA;NA;NA;NA;NA;35.75987038;Model
+Procyon.cancrivorus;65.58707115;NA;NA;NA;NA;NA;65.58707115;Model
+Rhipidomys.itoan;22.63148012;NA;NA;NA;NA;NA;22.63148012;Model
+Sapajus.nigritus;53.22370211;NA;NA;NA;NA;NA;53.22370211;Model
+Sooretamys.angouya;25.21381011;NA;NA;NA;NA;NA;25.21381011;Model
+Tapirus.terrestris;155.8481884;NA;NA;NA;NA;NA;155.8481884;Model
+Tayassu.pecari;97.1132566;NA;NA;NA;NA;NA;97.1132566;Model
+Thaptomys.nigrita;16.3250356;NA;NA;NA;NA;NA;16.3250356;Model
