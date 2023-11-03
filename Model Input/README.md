@@ -10,4 +10,4 @@ T -> Traits
 
 
 
-The file SaoPauloPlots_Covariates includes the environmental covariates based on which predictions for sites across Sao Paulo state were made. Gape size and seed size data used during network generation is also provided in the "Network Model" folder.
+The file SaoPauloPlots_Covariates includes the environmental covariates based on which predictions for sites across Sao Paulo state were made. Gape size and seed size data used during network generation, as well as tree community data, is also provided in the "Network Model" folder.
