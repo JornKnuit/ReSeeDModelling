@@ -1,4 +1,4 @@
-**Model input data for each of the models is giving in the following files:**
+**Model input data for each of the HMSC models is giving in the following files:**
 
 X -> Environmental covariates
 
@@ -10,4 +10,4 @@ T -> Traits
 
 
 
-The file SaoPauloPlots_Covariates includes the environmental covariates based on which predictions for sites across Sao Paulo state were made.
+The file SaoPauloPlots_Covariates includes the environmental covariates based on which predictions for sites across Sao Paulo state were made. Gape size and seed size data used during network generation is also provided in the "Network Model" folder.
